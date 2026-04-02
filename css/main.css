@@ -1,0 +1,12 @@
+canvas {
+	border: 1px solid black;
+}
+
+#canvas-and-buttons {
+	display: flex;
+}
+
+#buttons {
+	display: inline-block;
+	width: 400px;
+}
